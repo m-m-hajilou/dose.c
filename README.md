@@ -3,4 +3,6 @@
 <h1>یاعلی</h1>
 <h1>IN THE NAME OF ALLAH</h1>
 <h2>This is a c language dose game (3*3)</h2>
+All files are available at https://github.com/m-m-hajilou/project-class.git, but copied to clean repositories
+
 <h1>YA ALI</h1>
